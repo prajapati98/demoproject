@@ -1,5 +1,4 @@
 this is my text file
 pradeep
 monu
-rajendra
-rohit kumar
+
